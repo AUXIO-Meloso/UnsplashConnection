@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app has the purpose of connecting with the Unsplash api and showing its images
+
 ## Available Scripts
 
 In the project directory, you can run:
